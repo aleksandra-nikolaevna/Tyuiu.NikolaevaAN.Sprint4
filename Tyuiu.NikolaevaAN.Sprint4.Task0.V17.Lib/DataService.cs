@@ -20,7 +20,6 @@ namespace Tyuiu.NikolaevaAN.Sprint4.Task0.V17.Lib
                 }
             }
             return sum;
-            ///
         }
     }
 }

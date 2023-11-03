@@ -50,7 +50,6 @@ namespace Tyuiu.NikolaevaAN.Sprint4.Task0.V17
 
             Console.WriteLine("Сумма чётных элементов массива = " + ds.GetSumEvenArrEl(numsArray));
             Console.ReadKey();
-            ///
         }
     }
 }

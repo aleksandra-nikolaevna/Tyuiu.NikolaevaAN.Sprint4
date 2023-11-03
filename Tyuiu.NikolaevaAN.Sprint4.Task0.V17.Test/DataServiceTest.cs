@@ -15,7 +15,6 @@ namespace Tyuiu.NikolaevaAN.Sprint4.Task0.V17.Test
             int res = ds.GetSumEvenArrEl(numsArray);
             int wait = 34;
             Assert.AreEqual(wait, res);
-            ///
         }
     }
 }
