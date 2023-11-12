@@ -19,7 +19,7 @@ namespace Tyuiu.NikolaevaAN.Sprint4.Task1.V27.Lib
                     res = res * array[i];
                 }
             }
-            return res;
+            return res; //.
         }
     }
 }
